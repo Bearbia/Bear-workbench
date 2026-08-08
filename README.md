@@ -1,6 +1,7 @@
 # 熊师傅的工作台 · Bear-workbench
 
 一个棕铜工坊美学的个人日常工作台，集待办、日程、便签、日志、番茄专注、习惯追踪于一体。纯前端 + 轻量 Node 后端，数据落地 SQLite，支持 PWA 离线与桌面安装。
+<img width="2864" height="1468" alt="image" src="https://github.com/user-attachments/assets/ce5826d8-36fb-41cf-85df-e29ede5c46ee" />
 
 ## 功能特性
 
